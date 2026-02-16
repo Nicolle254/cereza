@@ -27,9 +27,9 @@ html {
 body {
   width: 600px;
   margin: 0 auto;
-  background-color: #FFBDF3;
+  background-color: #f7b6b9;
   padding: 0 20px 20px 20px;
-  border: 5px solid black;
+  border: 5px solid blue;
 }
 
 h1 {
